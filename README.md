@@ -5,6 +5,9 @@ A modern, responsive single-platform SaaS dashboard designed to automate repetit
 ## 🚀 Project Link
 *   **Live Application URL:** https://lovable.app
 
+
+*   
+
 ## 🚀 Project Overview
 This application serves as a centralized hub for workplace productivity. Built during Week 21 of the AI Skills Acceleration Programme, the platform solves real-world corporate inefficiencies by integrating five core AI-driven modules into one cohesive, user-friendly interface.
 
